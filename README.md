@@ -20,6 +20,5 @@ represents for port that client can listen to. In this project we should make th
 <server_port> is initialize in step run Server, <RTP_port> where the RTP packets are received,
 <video_file> is name of video file.
 
-<p align="center">
-  <a <img src=""/> </a>
+<p align="center"> <img src="images/Screenshot_1.png"/>  </p>
 
