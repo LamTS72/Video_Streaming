@@ -1,5 +1,5 @@
-# Video_Streaming
-Objectives:
+### Video_Streaming
+##Objectives:
 
 *We will implement a streaming video server and client that communicate using the Real-Time Streaming.
 
@@ -10,7 +10,7 @@ Requirement:
 We will provide you code that implements the RTSP protocol in the server, the RTP de-packetization in the client, and takes care of simply displaying the
 transmitted video.
 
-Run:
+##Run:
 
 *To run Server, firstly we command: python Server.py <server_port> , where <server_port>
 represents for port that client can listen to. In this project we should make the value bigger than 1024. We choose 2000.
